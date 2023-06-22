@@ -15,6 +15,7 @@ namespace disconected
     {
         private string stringConnection = "data source=LAPTOP-MCSQI6HJ\\RICCO;" +
             "database=tes_disconeted;multipleActiveResultSets=true;user ID=sa;Password=Slametriyadi18";
+
         private SqlConnection koneksi;
         private string kstr;
         public FormDataProdi()
