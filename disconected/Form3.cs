@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace disconected
 {
+
     public partial class FormDataMahasiswa : Form
     {
         private string stringConnection = "data source=LAPTOP-MCSQI6HJ\\RICCO;" +
